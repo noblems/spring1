@@ -9,5 +9,8 @@
 <bean id="studentbean" class="com.javatpoint.Student">  
 <property name="name" value="blah blah"></property>  
 </bean>  
+<bean id="stbean" class="com.javatpoint.Student">  
+<property name="name" value="blah blah"></property>  
+</bean> 
   
 </beans>
